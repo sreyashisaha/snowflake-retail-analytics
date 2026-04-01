@@ -36,4 +36,4 @@ Supermarket sales dataset — 1,000 transactions across 3 branches (Yangon, Nayp
 
 ## Dashboard
 
-[Link to Looker Studio Dashboard] — coming soon
+[Link to Looker Studio Dashboard] — https://lookerstudio.google.com/reporting/4365980a-22f1-476f-92a8-faa8af5308e3
